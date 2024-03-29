@@ -7,8 +7,8 @@ import Card from 'react-bootstrap/Card';
 const HomePageComponent = () => {
     const currWeathDefault ={
         coord: {
-            lon: number
-            lat: number
+            lon: 0,
+            lat: 0,
         },
         weather:
         {
