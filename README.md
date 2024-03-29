@@ -1,3 +1,8 @@
+Waqas Dad
+03/29/2024
+Excercise name: Weather App Rebuild
+Description: Use original figma weather app design and rebuild it.
+
 Peer Reviewer : Zahid Afsar
 Peer Comment : This Project is supposed to be build in next.js and not react. The only thing that displays so far is the desktop version. Another thing also is that it is not responsive. The Search bar doesnt work and there is not button to add to the favorites. Also it seems like the only data that shows is placeholders and not actual weather data. However I would like to say that the desgin looks good and with the fixes it could turn out to be a great project
 
