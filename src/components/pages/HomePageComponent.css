@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+.bgImg{
+    background-image: url('/public/assets/wolfgang-hasselmann-bR_-gllg7Bs-unsplash.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.inputFieldAlign{
+    display: flex;
+    justify-content: center;
+}
+.inputFieldStyle{
+    width: 400px;
+    height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: none;
+}
+.currWeathFirstRow{
+    text-align: center;
+}
+
+.currWeathSecRow{
+    text-align: center;
+}
+.fontStyle{
+    font-family: "Gelasio", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cardStyle{
+    background-color: #166DD2;
+    opacity: 0.9;
+    color: white;
+}
+
+

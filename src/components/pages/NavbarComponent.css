@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+.navStyle{
+    opacity: 0.9;
+    background-color: #166DD2;
+}
+.alignment{
+    justify-content: end;
+}
+
+.navLogoStyle{
+    font-family: "Gelasio", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+.favStyle{
+    border-style: solid;
+    width: 90px;
+    height: 40px;
+    font-family: "Gelasio", serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+.favColor{
+    color: white;
+}
